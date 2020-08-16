@@ -3,7 +3,7 @@
     "displayName": "mapReduceSnippets",
     "description": "Simple Java MapReduce snippet generator",
     "version": "0.0.1",
-    "publisher": "sherry",
+    "publisher": "sherrythebest",
     "engines": {
         "vscode": "^1.48.0"
     },

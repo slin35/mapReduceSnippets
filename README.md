@@ -15,7 +15,7 @@ MapReduce snippets for basic mapReduce templates
 ## Release Notes
 
 
-### 1.0.0
+### 0.0.1
 
 ### Main Commands
 | **Command** | **Help Text**                                                                                     |

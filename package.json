@@ -1,0 +1,21 @@
+{
+    "name": "mapreducesnippets",
+    "displayName": "mapReduceSnippets",
+    "description": "Simple Java MapReduce snippet generator",
+    "version": "0.0.1",
+    "publisher": "sherry",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "java",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

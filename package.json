@@ -4,6 +4,10 @@
     "description": "Simple Java MapReduce snippet generator",
     "version": "0.0.1",
     "publisher": "sherrythebest",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/slin35/mapReduceSnippets"
+    },
     "engines": {
         "vscode": "^1.48.0"
     },
